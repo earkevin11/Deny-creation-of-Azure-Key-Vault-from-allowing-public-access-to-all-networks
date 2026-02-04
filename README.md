@@ -2,6 +2,10 @@
 
 =======================================================================================
 
+# Goal: Establish security baselines for the resources and policies I enforce against the management group or subscription
+
+# Job: Own creating/managing baseline documents related to the policies I am enforcing
+
 # Azure Key Vault 
 
 <img width="950" height="886" alt="image" src="https://github.com/user-attachments/assets/80c272d8-3aa5-4b69-a3e5-71b2cfde3623" />
